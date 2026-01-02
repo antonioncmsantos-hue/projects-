@@ -22,7 +22,7 @@ This project uses the **Loan Default Dataset** from Kaggle (author: *yasserh*):
 
 ## Files
 - `RMBA_Group_B9.ipynb` — main analysis
-- Dataset: https://www.kaggle.com/code/zoezoe123/loan-default — download from Kaggle (link above)
+- Dataset: download from Kaggle (link above)
 - `RMBA_GroupAssignment_GradingCriteria.pdf` — assignment requirements
 
 ## How to run (local)
