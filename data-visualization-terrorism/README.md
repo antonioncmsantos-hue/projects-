@@ -1,4 +1,4 @@
-# Data Visualization – Terrorism, Economics & Governance (Group 17)
+# Data Visualization – Terrorism, Economics & Governance 
 
 Interactive visual analytics study on global terrorism patterns (1997–2017) and how terrorism risk relates to economic development and governance quality.
 
@@ -11,6 +11,12 @@ Interactive visual analytics study on global terrorism patterns (1997–2017) an
 - **AQ1:** Is the world really becoming increasingly dangerous?
 - **AQ2:** Where is terrorism risk concentrated, and how does it relate to economic measures?
 - **AQ3:** Does better governance quality go hand in hand with less terrorism?
+
+---
+## Key results (summary)
+- **AQ1 (Global trend):** Terrorism intensity shows notable **spikes (e.g., around 2007 and 2014)** rather than a steady upward trend. After **2014**, the overall pattern suggests a **decline**, which challenges the idea that the world is continuously becoming more dangerous.
+- **AQ2 (Economics):** Most economic indicators show **weak or inconsistent global relationships** with terrorism intensity. **GDP per capita** is not systematically predictive, while **military expenditure** shows a **moderate positive association**. **R&D expenditure** is **weakly associated with fewer attacks**, but effects vary substantially by country.
+- **AQ3 (Governance):** There is a **clear (but imperfect) negative association** between governance quality and terrorism risk: higher-governance countries tend to cluster in lower-risk areas. However, the relationship is **context-dependent**, and governance improvements do not guarantee lower terrorism without broader conflict and institutional dynamics improving as well.
 
 ---
 
